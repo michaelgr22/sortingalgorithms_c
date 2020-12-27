@@ -1,4 +1,4 @@
-## Tested some sorting algorithms in c with two test cases:
+Tested some sorting algorithms in c with two test cases:
 
 ## **Measurments random ordered data**
 
